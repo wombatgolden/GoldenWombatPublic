@@ -1,8 +1,8 @@
 {
   "name": "Golden Wombat #001",
   "description": "A rare Golden Wombat from the Burrow. Includes a 1:1 MP4 animation and a YouTube showcase.",
-  "image": "https://bafylink/wombat-001.png",
-  "youtube_url": "https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID",
+  "image": "https://github.com/wombatgolden/GoldenWombatPublic/raw/refs/heads/main/NFT/maxsfirstmetadata/media/1.png",
+  "animation_url": "https://github.com/wombatgolden/GoldenWombatPublic/raw/refs/heads/main/NFT/maxsfirstmetadata/media/animation/1.mp4",
   "attributes": [
     { "trait_type": "Species", "value": "Wombat" },
     { "trait_type": "Variant", "value": "Golden" },
