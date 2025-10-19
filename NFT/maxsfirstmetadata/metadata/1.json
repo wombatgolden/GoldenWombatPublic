@@ -1,0 +1,16 @@
+{
+  "name": "Golden Wombat #001",
+  "description": "A rare Golden Wombat from the Burrow. Includes a 1:1 MP4 animation and a YouTube showcase.",
+  "external_url": "https://foxyswap.net/market/<CHAIN_ID>/token/<CONTRACT_ADDRESS>/1",
+  "image": "https://bafylink/wombat-001.png",
+  "animation_url": "https://bafylink/media/wombat-001.mp4",
+  "youtube_url": "https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID",
+  "background_color": "0A0A0A",
+  "attributes": [
+    { "trait_type": "Species", "value": "Wombat" },
+    { "trait_type": "Variant", "value": "Golden" },
+    { "trait_type": "Mood", "value": "Stoic" },
+    { "trait_type": "Generation", "value": "Gen0" },
+    { "display_type": "number", "trait_type": "Burrow Depth", "value": 12 }
+  ],
+}
